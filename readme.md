@@ -4,3 +4,5 @@ Eu não sei muito o que explicar, eu estou aprendendo e decidid criar um reposit
 
 
 Disponibilizei o programa tanto pra windows quanto pra linux e mac, apesar de que o terminal do windows é mais defasado e não consegue mostrar caracteres com acentuação por padrão, e eu não tentei adaptar para esse terminal limitado.
+
+Download disponível na aba releases.
